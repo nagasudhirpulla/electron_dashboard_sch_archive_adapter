@@ -1,0 +1,7 @@
+{
+  "configFilename": "scheduleArchiveConfig.json",
+  "DataHost": "hostname",
+  "IdentityServerHost": "hostname",
+  "ClientId": "clientId",
+  "ClientPassword": "clientPass"
+}
